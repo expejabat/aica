@@ -40,7 +40,7 @@
     {
       "id": "free-rotation/hf/deepseek-ai/DeepSeek-R1:novita",
       "name": "Novita: DeepSeek-R1",
-      "hugging_face_id": "deepseek-ai/DeepSeek-R1:novita",
+      "hugging_face_id": "deepseek-ai/DeepSeek-R1",
       "owned_by": "Simata"
     },    
     {
