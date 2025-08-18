@@ -98,6 +98,12 @@
       "owned_by": ""
     },
     {
+      "id": "free-rotation/hf/moonshotai/Kimi-K2-Instruct:groq",
+      "name": "Groq: Kimi-K2-Instruct",
+      "hugging_face_id": "moonshotai/Kimi-K2-Instruct",
+      "owned_by": "Candro"
+    },    
+    {
       "id": "free-rotation/hf/moonshotai/Kimi-K2-Instruct:novita",
       "name": "Novita: Kimi-K2-Instruct",
       "hugging_face_id": "moonshotai/Kimi-K2-Instruct",
