@@ -110,11 +110,23 @@
       "owned_by": "Candro"
     },
     {
+      "id": "free-rotation/hf/openai/gpt-oss-20b:groq",
+      "name": "Groq: Gpt-Oss-20b",
+      "hugging_face_id": "openai/gpt-oss-20b",
+      "owned_by": "Candro"
+    },
+    {
       "id": "free-rotation/hf/Qwen/Qwen2.5-VL-72B-Instruct:nebius",
       "name": "Nebius: Qwen2.5-VL-72B-Instruct",
       "hugging_face_id": "Qwen/Qwen2.5-VL-72B-Instruct",
       "owned_by": ""
     },
+    {
+      "id": "free-rotation/hf/Qwen/Qwen3-32B:groq",
+      "name": "Groq: Qwen3-32B",
+      "hugging_face_id": "Qwen/Qwen3-32B",
+      "owned_by": ""
+    },    
     {
       "id": "free-rotation/hf/Qwen/Qwen3-235B-A22B:novita",
       "name": "Novita: Qwen3-235B-A22B",
