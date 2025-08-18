@@ -38,6 +38,12 @@
       "owned_by": ""
     },
     {
+      "id": "free-rotation/hf/deepseek-ai/DeepSeek-R1:novita",
+      "name": "Novita: DeepSeek-R1",
+      "hugging_face_id": "deepseek-ai/DeepSeek-R1:novita",
+      "owned_by": "Simata"
+    },    
+    {
       "id": "free-rotation/hf/deepseek-ai/DeepSeek-R1-Distill-Llama-70B:cerebras",
       "name": "Cerebras: DeepSeek-R1-Distill-Llama-70B",
       "hugging_face_id": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
@@ -101,7 +107,7 @@
       "id": "free-rotation/hf/openai/gpt-oss-120b:cerebras",
       "name": "Cerebras: Gpt-Oss-120b",
       "hugging_face_id": "openai/gpt-oss-120b",
-      "owned_by": ""
+      "owned_by": "Candro"
     },
     {
       "id": "free-rotation/hf/Qwen/Qwen2.5-VL-72B-Instruct:nebius",
