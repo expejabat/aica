@@ -99,7 +99,7 @@
     },
     {
       "id": "free-rotation/hf/moonshotai/Kimi-K2-Instruct:groq",
-      "name": "Kimi-K2-Instruct",
+      "name": "Kimi-K2-IT",
       "hugging_face_id": "moonshotai/Kimi-K2-Instruct",
       "owned_by": "simatadotid"
     },    
