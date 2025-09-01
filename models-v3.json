@@ -2,18 +2,6 @@
   "object": "list",
   "data": [
     {
-      "id": "free-rotation/hf/openai/gpt-oss-120b:cerebras",
-      "name": "Cerebras: Gpt-Oss-120b"
-    },
-    {
-      "id": "free-rotation/hf/openai/gpt-oss-20b:groq",
-      "name": "Groq: Gpt-Oss-20b"
-    },
-    {
-      "id": "free-rotation/hf/Qwen/Qwen2.5-VL-72B-Instruct:nebius",
-      "name": "Nebius: Qwen2.5-VL-72B-Instruct"
-    },
-    {
       "id": "gpt-4.1",
       "name": "GPT 4.1"
     },    
