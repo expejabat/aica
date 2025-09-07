@@ -20,10 +20,6 @@
     {
       "id": "groq/moonshotai/kimi-k2-instruct",
       "name": "Kimi K2 Instruct"
-    },
-    {
-      "id": "imagen-3",
-      "name": "Imagen 3"
     }
   ]
 }
