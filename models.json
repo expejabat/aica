@@ -4,7 +4,7 @@
     {
       "id": "gpt-4.1",
       "name": "GPT 4.1"
-    },    
+    },
     {
       "id": "gpt-4.1-mini",
       "name": "GPT 4.1 Mini"
@@ -16,10 +16,14 @@
     {
       "id": "gpt-4o-mini",
       "name": "GPT 4o Mini"
-    },    
+    },
     {
       "id": "groq/moonshotai/kimi-k2-instruct",
       "name": "Kimi K2 Instruct"
-    } 
+    },
+    {
+      "id": "imagen-3",
+      "name": "Imagen 3"
+    }
   ]
 }
